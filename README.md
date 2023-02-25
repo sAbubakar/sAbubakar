@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sAbubakar
 - 👀 I’m interested in supporting the community via Open Source Code! :)
-- 🌱 I’m currently learning to develop web applications via MERN stack
+- 🌱 I’m currently learning to develop web applications using the MERN stack.
 - 📫 You can contact me on my email: s.abubakar2019@outlook.com
 
 <!---
